@@ -1,0 +1,16 @@
+* {
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Brush Script MT";
+    color: yellow;
+    font-size: 64px;
+}
+
+a, li {
+    font-family: fantasy;
+    color: limegreen;
+    font-size: 48px;
+}
